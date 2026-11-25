@@ -24,3 +24,4 @@ endif()
 
 add_subdirectory("examples")
 add_subdirectory("lab01")
+add_subdirectory("pr")
